@@ -257,7 +257,16 @@ figlet -f slant "H O R A S"|lolcat
 sleep 2 
 echo $i"Jangan Lupa Ikutin Yang Dibawah Ya Lae"
 sleep 2
-echo $cy" OK BANG...!!!"
+echo $cy" H O R A S...!!!"
+echo $cy" H O O R R A A S S!!"
+echo $cy" H O R A S  H I T A  S U D E!!"
+sleep 2
+echo $cy" JANGAN DI RECODE YA ANJING,BABI,BANGSAT"
+echo $cy" CAPEK MEMBUATNYA BANGSAT"
+echo $cy" BUAT SENDIRI BIAR TAU KARYA"
+sleep 2
+echo $cy" SALAM ANAK SAMOSRIR"
+echo $cy" H O R A S!!!"
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
