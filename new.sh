@@ -51,7 +51,7 @@ echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"Nicoleus"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"Nicoleus"$bi"]"$me"======"$bi"["$i""Pilih Nomornya Lae""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
@@ -255,13 +255,18 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+echo $cy"HORAS HITA SUDE!!!"
+sleep 2
+echo $i"Terimah Kasih Telah Memakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
 echo $ku"WhatsApp :"$i" 0822xxx"
 echo $ku"Facebook :"$i" Nicoleus Sitorus"
+echo $ku"Instagram :"$i" @nicoleus sitorus"
+echo $ku"Youtube :"$i" ady sitorus ady"
 sleep 2
+echo $pur">> ...... HORAS ....... <<"
 echo $pur">> Thanks Yang Sudah Support Saya..HORAS.. <<"
 exit
 fi
