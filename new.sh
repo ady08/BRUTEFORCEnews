@@ -21,7 +21,7 @@ echo $i" |"$pu" AUTHOR :"$ku" Nicoleus Sitorus  [MR.WRECK]"$i"       |"
 echo $i" |"$pu" FACEBOOK :"$ku" Nicoleus Sitorus"$i"                 |"
 echo $i" |"$pu" INSTAGRAM : @nicoleus_sitorus"$i"                 |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.WRECK] [MR.COOL] [MR.X]"$i"   |"
-echo $i" |"$cy"            ~ [SAMOSIR CYBER TEAM] [%MR.S%] [Ijen M Sinaga]"$i"|"
+echo $i" |"$cy"            ~ [SAMOSIR CYBER TEAM] [%MR.S%] [Ijen]"$i"|"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0822xxxxxxxx"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" adysitorusa7@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
@@ -44,11 +44,11 @@ echo $i"|"$me"13"$i" |"$cy" AUTOLIKE FACEBOOK        "$i"|"$i"    |"$cy" O"$i" |
 echo $i"────────────────────────────────"$i"    |"$cy" O"$i" |"
 echo $i"|"$me"14"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ─────"
-echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" K"$i" |"
-echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" O"$i" |"
+echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" C"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" R"$i" |"
-echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU LAE   "$i"|"$i"    |"$cy" A"$i" |"
+echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" k"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
 echo $me"┌==="$bi"["$i"Nicoleus"$bi"]"$me"======"$bi"["$i""Pilih Nomornya Lae""$bi"]"
@@ -254,6 +254,8 @@ if [ $pil = 19 ]
 then
 clear
 figlet -f slant "H O R A S"|lolcat
+sleep 2 
+echo $i"Jangan Lupa Ikutin Yang Dibawah Ya Lae"
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
