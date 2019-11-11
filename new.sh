@@ -267,6 +267,8 @@ echo $cy" BUAT SENDIRI BIAR TAU KARYA"
 sleep 2
 echo $cy" SALAM ANAK SAMOSRIR"
 echo $cy" H O R A S!!!"
+sleep 2
+echo $cy" Ngapain lagi?? KELUARLAH BANGSAT!!"
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
