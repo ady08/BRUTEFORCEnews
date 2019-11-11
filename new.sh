@@ -53,7 +53,7 @@ echo $i"────────────────────────
 echo
 echo $me"┌==="$bi"["$i"Nicoleus"$bi"]"$me"======"$bi"["$i""Pilih Nomornya Lae""$bi"]"
 echo $me"¦"
-read -p"└──# " pil
+read -p"└──> " pil
 
 if [ $pil = 1 ]
 then
@@ -269,6 +269,8 @@ echo $cy" SALAM ANAK SAMOSRIR"
 echo $cy" H O R A S!!!"
 sleep 2
 echo $cy" Ngapain lagi?? KELUARLAH BANGSAT!!"
+sleep 2
+echo $i" ___/\___ !!!"
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
