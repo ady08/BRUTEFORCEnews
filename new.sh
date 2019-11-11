@@ -253,6 +253,8 @@ fi
 if [ $pil = 19 ]
 then
 clear
+figlet -f slant "H O R A S"|lolcat
+clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
 echo $cy"HORAS HITA SUDE!!!"
@@ -266,7 +268,7 @@ echo $ku"Facebook :"$i" Nicoleus Sitorus"
 echo $ku"Instagram :"$i" @nicoleus sitorus"
 echo $ku"Youtube :"$i" ady sitorus ady"
 sleep 2
-echo $pur">> ...... HORAS ....... <<"
-echo $pur">> Thanks Yang Sudah Support Saya..HORAS.. <<"
+echo $pur"++ ...... H O R A S ....... ++"
+echo $pur"++ Thanks Yang Sudah Support Saya..H O R A S.. <<"
 exit
 fi
