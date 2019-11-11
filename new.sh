@@ -18,10 +18,10 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo $i" |"$cy"     SAMOSIR CYBER TEAM... TERMUX .."$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" Nicoleus Sitorus  [MR.WRECK]"$i"       |"
-echo $i" |"$pu" FACEBOOK :"$ku" Nicoleus Sitorus"$i"                 |"
+echo $i" |"$pu" FACEBOOK :"$ku" Nicoleus Sitorus"$i"            |"
 echo $i" |"$pu" INSTAGRAM : @nicoleus_sitorus"$i"                 |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.WRECK] [MR.COOL] [MR.X]"$i"   |"
-echo $i" |"$cy"            ~ [SAMOSIR CYBER TEAM] [%MR.S%] [Ijen]"$i"|"
+echo $i" |"$cy"            ~ [SAMOSIR CYBER TEAM] [MR.O%] [Ijen]"$i"|"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0822xxxxxxxx"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" adysitorusa7@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
@@ -44,9 +44,9 @@ echo $i"|"$me"13"$i" |"$cy" AUTOLIKE FACEBOOK        "$i"|"$i"    |"$cy" O"$i" |
 echo $i"────────────────────────────────"$i"    |"$cy" O"$i" |"
 echo $i"|"$me"14"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ─────"
-echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" O"$i" |"
-echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" C"$i" |"
-echo $i"────────────────────────────────"$i"    |"$cy" R"$i" |"
+echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" O"$i" |"
+echo $i"────────────────────────────────"$i"    |"$cy" C"$i" |"
 echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU LAE   "$i"|"$i"    |"$cy" A"$i" |"
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" k"$i" |"
 echo $i"────────────────────────────────    ─────"
@@ -256,6 +256,8 @@ clear
 figlet -f slant "H O R A S"|lolcat
 sleep 2 
 echo $i"Jangan Lupa Ikutin Yang Dibawah Ya Lae"
+sleep 2
+echo $cy" OK BANG...!!!"
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
@@ -265,8 +267,8 @@ echo $i"Terimah Kasih Telah Memakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 0822xxx"
-echo $ku"Facebook :"$i" Nicoleus Sitorus"
+echo $ku"WhatsApp :"$pu" 0822xxx"
+echo $ku"Facebook :"$bi" Nicoleus Sitorus"
 echo $ku"Instagram :"$i" @nicoleus sitorus"
 echo $ku"Youtube :"$i" ady sitorus ady"
 sleep 2
