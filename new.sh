@@ -11,13 +11,17 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
+echo $i"["$bi"•"$i"]"$me"=======___________________________=========="$i"["$bi"•"$i"]"
+echo $i" |"$cy"   ===++>>> HORAS HITA SUDE <<<++==="$i"         |"
+echo $i" |"$me"=======_____===___===____===____===____===___"$i"|"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     SAMOSIR CYBER TEAM... TERMUX .."$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" Nicoleus Sitorus  [MR.WRECK]"$i"       |"
 echo $i" |"$pu" FACEBOOK :"$ku" Nicoleus Sitorus"$i"                 |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.WRECCK] [MR.COOL] [MR.X]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [Ijen M Sinaga]"$i" |"
+echo $i" |"$pu" INSTAGRAM : @nicoleus_sitorus"$i"                 |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MR.WRECK] [MR.COOL] [MR.X]"$i"   |"
+echo $i" |"$cy"            ~ [SAMOSIR CYBER TEAM] [%MR.S%] [Ijen M Sinaga]"$i"|"
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0822xxxxxxxx"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" adysitorusa7@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
